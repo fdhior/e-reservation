@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.platzi.ereservation.negicio.services;
+package com.platzi.ereservation.negocio.services;
 
 import java.util.List;
 

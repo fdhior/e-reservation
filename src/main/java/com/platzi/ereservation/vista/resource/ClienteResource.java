@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.platzi.ereservation.modelo.Cliente;
-import com.platzi.ereservation.negicio.services.ClienteService;
+import com.platzi.ereservation.negocio.services.ClienteService;
 import com.platzi.ereservation.vista.resource.vo.ClienteVO;
 
 import io.swagger.annotations.Api;
